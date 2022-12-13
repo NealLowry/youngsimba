@@ -1,2 +1,2 @@
 # youngsimba
-Beginner project, circa 2019. Basic animation with pygame library.
+Beginner project using Python, circa 2019. Basic animation with pygame library.
